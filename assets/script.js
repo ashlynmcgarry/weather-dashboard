@@ -10,7 +10,7 @@ let searchHistory = JSON.parse(localStorage.getItem("searchHistory")) || []; //s
 
 function getMainWeather(city) {
   //getting weather for main header card
-  const cityURL = `http://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${APIKey}&units=metric`;
+  const cityURL = `https://api.openweathermap.org/data/2.5/weather?q=${city}&appid=${APIKey}&units=metric`;
 
   if (city === "") {
     // If there is no input, alert and stop the function
