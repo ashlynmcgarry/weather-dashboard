@@ -1,0 +1,64 @@
+/* Element Styling */
+
+header h1 {
+    padding: 15px;
+    color: white;
+}
+
+button {
+    margin: 10px 0;
+    width: 100%;
+}
+
+li {
+    list-style: none;
+}
+
+ul {
+    padding: 0px !important;
+}
+
+h3 {
+    font-size: 28px;
+}
+
+/* ID Styling */
+#header-gradient {
+    background-image: linear-gradient(to right, #7BD5F5, #1F2F98);
+}
+
+/* Class Styling */
+.search-container {
+    padding: 30px;
+    gap: 30px;
+}
+
+.city-input {
+    width: 250px;
+}
+
+.city-input input {
+    width: 100%;
+}
+
+.weather-data {
+    width: 100%;
+}
+
+.weather-card {
+    margin: 10px;
+    list-style: none;
+}
+
+.forecast-card {
+    margin: 10px;
+    padding: 10px;
+    background-color: white;
+    border-radius: 5px;
+}
+
+.current-weather {
+    margin: 10px;
+    padding: 10px;
+    border-radius: 5px;
+}
