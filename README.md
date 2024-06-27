@@ -27,4 +27,4 @@ Refer to the license in the repo.
 - Search a city which loads both daily weather and a five day forecast
 - Search history is saved both in the local storage and onscreen
 - Click a previously searched location and that city's weather is displayed
-- Weather data displayed includes a temperature, humidity and wind speed as well as an icon depicting the conditiosn
+- Weather data displayed includes a temperature, humidity and wind speed as well as an icon depicting the conditions
